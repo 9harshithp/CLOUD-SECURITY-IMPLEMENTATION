@@ -28,3 +28,8 @@ Finally, I documented the entire process in a structured report. This included t
 This task emphasized the importance of detailed configurations and iterative testing to secure cloud resources. By implementing IAM policies, encryption, and monitoring, I ensured that the S3 bucket was not only secure but also auditable, providing a strong foundation for protecting sensitive data.
 
 **output of the task**:
+<img width="937" alt="Image" src="https://github.com/user-attachments/assets/08b50f50-8b8f-4286-b67b-51841cc7bbcc" />
+
+<img width="958" alt="Image" src="https://github.com/user-attachments/assets/aa1dfbf9-ab77-4faf-a7b1-01c21076d75d" />
+
+<img width="955" alt="Image" src="https://github.com/user-attachments/assets/9d74dfa8-796f-4013-b3c7-5b01b79f65bd" />
